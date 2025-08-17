@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "analytics": "Análisis",
+    "projects": "Proyectos",
+    "team": "Equipo",
+    "settings": "Configuración",
+    "help": "Ayuda"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Bienvenido a tu panel de control",
+    "createNew": "Crear nuevo",
+    "metrics": {
+      "totalUsers": "Total de usuarios",
+      "revenue": "Ingresos",
+      "activeProjects": "Proyectos activos",
+      "completedTasks": "Tareas completadas",
+      "lastMonth": "desde el mes pasado",
+      "thisWeek": "nuevos esta semana",
+      "lastWeek": "desde la semana pasada"
+    },
+    "recentActivity": {
+      "title": "Actividad reciente",
+      "userCreatedProject": "creó un nuevo proyecto",
+      "userCompletedTask": "completó una tarea",
+      "userUploadedFiles": "subió archivos",
+      "timeAgo": {
+        "hoursAgo": "Hace {hours} horas",
+        "yesterday": "Ayer"
+      }
+    },
+    "upcomingTasks": {
+      "title": "Próximas tareas",
+      "reviewProposal": "Revisar propuesta del cliente",
+      "updateDocs": "Actualizar documentación",
+      "teamMeeting": "Reunión de equipo",
+      "dueTomorrow": "Vence mañana",
+      "dueInDays": "Vence en {days} días",
+      "fridayMeeting": "Viernes 10:00 AM",
+      "status": {
+        "pending": "Pendiente",
+        "inProgress": "En progreso",
+        "scheduled": "Programado"
+      }
+    }
+  },
+  "user": {
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "logout": "Cerrar sesión"
+  },
+  "common": {
+    "search": "Buscar",
+    "notifications": "Notificaciones",
+    "language": "Idioma"
+  }
+}
